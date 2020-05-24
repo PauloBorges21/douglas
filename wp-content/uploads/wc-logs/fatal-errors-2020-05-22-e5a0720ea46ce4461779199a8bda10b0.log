@@ -1,0 +1,27 @@
+2020-05-22T00:35:13+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\woolentor_woocommerce_product_categories() in D:\wamp64\www\douglas\wp-content\plugins\woolentor-addons-pro\includes\widgets\universal_product.php:174
+Stack trace:
+#0 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\base\controls-stack.php(1946): Elementor\Woolentor_Universal_Product_Layout_Widget->_register_controls()
+#1 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\base\controls-stack.php(498): Elementor\Controls_Stack->init_controls()
+#2 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\base\widget-base.php(150): Elementor\Controls_Stack->get_stack()
+#3 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 D:\wamp64\www\douglas\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): cal, em D:\wamp64\www\douglas\wp-content\plugins\woolentor-addons-pro\includes\widgets\universal_product.php, na linha 174
+
+2020-05-22T00:38:20+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\woolentor_woocommerce_product_categories() in D:\wamp64\www\douglas\wp-content\plugins\woolentor-addons-pro\includes\widgets\universal_product.php:174
+Stack trace:
+#0 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\base\controls-stack.php(1946): Elementor\Woolentor_Universal_Product_Layout_Widget->_register_controls()
+#1 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\base\controls-stack.php(498): Elementor\Controls_Stack->init_controls()
+#2 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\base\widget-base.php(150): Elementor\Controls_Stack->get_stack()
+#3 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 D:\wamp64\www\douglas\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): cal, em D:\wamp64\www\douglas\wp-content\plugins\woolentor-addons-pro\includes\widgets\universal_product.php, na linha 174
+
+2020-05-22T00:39:42+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\woolentor_woocommerce_product_categories() in D:\wamp64\www\douglas\wp-content\plugins\woolentor-addons-pro\includes\widgets\universal_product.php:174
+Stack trace:
+#0 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\base\controls-stack.php(1946): Elementor\Woolentor_Universal_Product_Layout_Widget->_register_controls()
+#1 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\base\controls-stack.php(498): Elementor\Controls_Stack->init_controls()
+#2 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\base\widget-base.php(150): Elementor\Controls_Stack->get_stack()
+#3 D:\wamp64\www\douglas\wp-content\plugins\elementor\includes\managers\widgets.php(274): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 D:\wamp64\www\douglas\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): cal, em D:\wamp64\www\douglas\wp-content\plugins\woolentor-addons-pro\includes\widgets\universal_product.php, na linha 174
+
